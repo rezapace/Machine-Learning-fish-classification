@@ -1,5 +1,24 @@
 # Fish Classification
 
+# HOW TO RUN PROJECT
+
+1. Download the Jupyter notebook:
+   ```bash
+   wget https://github.com/rezapace/Machine-Learning-fish-classification/releases/download/1.0/fish_classification.ipynb
+   ```
+
+2. Open Google Colab:
+   [https://colab.research.google.com/#create=true](https://colab.research.google.com/#create=true)
+
+3. Upload the downloaded `klasifikasi_catur.ipynb` file to Google Colab.
+
+4. Run the notebook:
+   - Execute each cell in order
+   - Follow the instructions provided in the notebook comments
+
+Note: Make sure you have a Google account to use Google Colab. If you encounter any issues, please refer to the [project repository](https://github.com/rezapace/Machine-Learning-fish-classification) for troubleshooting or to report problems.
+
+
 ## Deskripsi
 Proyek ini bertujuan untuk mengklasifikasikan jenis ikan menggunakan model pembelajaran mesin berbasis gambar. Dataset yang digunakan terdiri dari gambar-gambar ikan yang telah dikelompokkan ke dalam beberapa kategori. Model yang digunakan dalam proyek ini adalah VGG16 dan ResNet50, yang merupakan model deep learning populer untuk tugas klasifikasi gambar.
 
